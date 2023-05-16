@@ -1,0 +1,48 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/Highlighting/HighlightingSourceSnapshotLocation/@EntryValue">C:\Users\herbe\AppData\Local\Temp\JetBrains\ReSharperPlatformVs17\vAny_1d906d79\CoverageData\_ScooterRental.1152158279\Snapshot\snapshot.utdcvr</s:String>
+	
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=510a5b0d_002Dd0eb_002D4a83_002D8aec_002D9b917774917e/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="AddScooter_AddValidScooter_ScooterAdded" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::FE0A88BB-744B-4461-9B46-0124270EDB35::net6.0::ScooterRental.Tests.ScooterServiceTests.AddScooter_AddValidScooter_ScooterAdded&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=5dab4977_002D8d11_002D43f6_002D92c0_002D4418a3278427/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="GetPayForEndDay_NotProvidedReturnTime_ReturnsPayForLastDay" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Solution /&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=627eeb3c_002D1ed0_002D4bc4_002Dacf2_002Dfe02aa98715d/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="All tests from Solution" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Solution /&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=63ecd5a5_002D7fae_002D4d2d_002Da2e1_002Df5c60b5029e8/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="CalculateIncome_NoYearInputAndIncludeIncompleteRents_ReturnsAllIncome #4" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::FE0A88BB-744B-4461-9B46-0124270EDB35::net6.0::ScooterRental.Tests.RentalCompanyTests.CalculateIncome_NoYearInputAndIncludeIncompleteRents_ReturnsAllIncome&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=88e17aa2_002D76fe_002D445d_002Da2d7_002D65483ba32c9d/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="CalculateIncome_NoYearInputAndIncludeIncompleteRents_ReturnsAllIncome" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::FE0A88BB-744B-4461-9B46-0124270EDB35::net6.0::ScooterRental.Tests.RentalCompanyTests.CalculateIncome_NoYearInputAndIncludeIncompleteRents_ReturnsAllIncome&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=c4d0b0d4_002De4aa_002D4351_002D9cf5_002D9971d1f23334/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="VendingMachineTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Solution /&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=cc58bd27_002D94f1_002D41e7_002Dae8f_002D11fb61d694e3/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="CalculateIncome_NoYearInputAndIncludeIncompleteRents_ReturnsAllIncome #5" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Solution /&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=e3ebe09c_002D9bfb_002D4b78_002Db1fd_002Dd2568d877c92/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="CalculateIncome_NoYearInputAndIncludeIncompleteRents_ReturnsAllIncome #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::FE0A88BB-744B-4461-9B46-0124270EDB35::net6.0::ScooterRental.Tests.RentalCompanyTests.CalculateIncome_NoYearInputAndIncludeIncompleteRents_ReturnsAllIncome&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=e8df0c49_002D8dbd_002D4594_002Dab5a_002De0a8ac16777c/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="CalculateIncome_NoYearInputAndIncludeIncompleteRents_ReturnsAllIncome #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::FE0A88BB-744B-4461-9B46-0124270EDB35::net6.0::ScooterRental.Tests.RentalCompanyTests.CalculateIncome_NoYearInputAndIncludeIncompleteRents_ReturnsAllIncome&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=e96372d4_002D56f6_002D4eec_002Dbd4a_002D733c98bae349/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="AddScooter_AddValidScooter_ScooterAdded #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::FE0A88BB-744B-4461-9B46-0124270EDB35::net6.0::ScooterRental.Tests.ScooterServiceTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=f2ff7823_002D58ed_002D4f75_002Dba2d_002Da649b96f2814/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="GetScooters_ReturnsAllScooters" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Solution /&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
